@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Regestration Form (P1)</string>
+    <string name="Reg_Form">Regestration Form</string>
+    <string name="name">Name : </string>
+    <string name="enter_name">Enter Your Name </string>
+
+    <string name="email">E-mail : </string>
+    <string name="enter_email">Enter Your E-mail</string>
+
+    <string name="ph_no">Phone : </string>
+    <string name="enter_no">Enter Your Phone Number</string>
+
+    <string name="dob">DOB : </string>
+    <string name="enter_dob">Enter Your Birth Date</string>
+
+    <string name="gender">Gender : </string>
+    <string name="enter_gender">Enter Your Gender</string>
+
+    <string name="Add">Address : </string>
+    <string name="enter_add">Enter Your Address</string>
+
+    <string name="work">Work : </string>
+    <string name="enter_work">Enter Your Work</string>
+
+    <string name="cast">Cast : </string>
+    <string name="enter_cast">Enter Your cast</string>
+
+    <string name="F_name">Father : </string>
+    <string name="enter_F">Enter Your Father Name</string>
+
+    <string name="M_name">Mother : </string>
+    <string name="enter_M">Enter Your Mother Name</string>
+
+    <string name="submit">Submit</string>
+<!--    <string name="submit">Enter Your Mother Name</string>-->
+
+    <string name="reset">Reset</string>
+<!--    <string name="enter_M">Enter Your Mother Name</string>-->
+
+
+</resources>
